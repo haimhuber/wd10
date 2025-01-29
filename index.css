@@ -24,5 +24,6 @@ p {
     background-color: rgb(146, 160, 155);
     padding: 20px;
     margin: 20px;
+    shape-margin: 10%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
