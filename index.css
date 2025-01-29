@@ -9,6 +9,9 @@ body {
 li {
     font-size: medium;
     border: 2px red solid;
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: aliceblue;
     width: 100px;
     margin: 10px;
 }
